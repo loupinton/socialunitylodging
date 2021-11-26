@@ -1,0 +1,11 @@
+#signup-form label.field-error-message {
+    position: absolute;
+    font-size: 10px;
+    top: 7px;
+    right: 30px;
+    color: #CF2F40;
+}
+
+#signup-form .form-group {
+    position: relative;
+}
